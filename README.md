@@ -40,10 +40,11 @@
 <img height="30px" alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 <img height="30px" alt="React.js" src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />
 <img height="30px" alt="Next.js" src="https://img.shields.io/badge/-Next-black?style=flat-square&logo=nextdotjs" />
- <img height="30px" alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-white?style=flat-square&logo=graphql&logoColor=E10098" />
+<img height="30px" alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-white?style=flat-square&logo=graphql&logoColor=E10098" />
 <img height="30px" alt="Strapi" src="https://img.shields.io/badge/-Strapi-2F2E8B?style=flat-square&logo=strapi&logoColor=8F68DE" />
 <img height="30px" alt="Node.js" src="https://img.shields.io/badge/-Node-339933?style=flat-square&logo=Node.js&logoColor=white" />
 <img height="30px" alt="Express.js" src="https://img.shields.io/badge/-Express-339933?style=flat-square&logo=express&logoColor=white" />
+<img height="30px" alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 <br />
 
