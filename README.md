@@ -9,7 +9,7 @@
 
 <ul>
   <li>Mostly work on the frontend</li>
-  <li>Furaha Systems' Mobile Developer</li>
+  <li>Full Stack Developer at Furaha Systems</li>
   <li>Writes on a blog for fun</li>
   <li>Nerd of RPGs and story-based games</li>
 </ul>
@@ -44,6 +44,8 @@
 <img height="30px" alt="Strapi" src="https://img.shields.io/badge/-Strapi-2F2E8B?style=flat-square&logo=strapi&logoColor=8F68DE" />
 <img height="30px" alt="Node.js" src="https://img.shields.io/badge/-Node-339933?style=flat-square&logo=Node.js&logoColor=white" />
 <img height="30px" alt="Express.js" src="https://img.shields.io/badge/-Express-339933?style=flat-square&logo=express&logoColor=white" />
+<img height="30px" alt="PHP" src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php&logoColor=777BB4" />
+<img height="30px" alt="Laravel" src="https://img.shields.io/badge/-Laravel-1f2937?style=flat-square&logo=laravel&logoColor=FF2D20" />
 <img height="30px" alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 <br />
