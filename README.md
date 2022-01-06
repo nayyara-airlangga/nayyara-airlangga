@@ -30,6 +30,7 @@
 <br>
 
 <p>
+<img height="30px" alt="Solidity" src="https://img.shields.io/badge/-Solidity-c7c7c7?style=flat-square&logo=solidity&logoColor=363636" />
 <img height="30px" alt="Dart" src="https://img.shields.io/badge/-Dart-blue?style=flat-square&logo=dart&logoColor=42D1F5" />
 <img height="30px" alt="Flutter" src="https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter&logoColor=42D1F5" />
 <img height="30px" alt="Python" src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=FFE873" />
