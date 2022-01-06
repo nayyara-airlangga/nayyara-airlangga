@@ -8,7 +8,7 @@
 <p><strong>Some fun facts about me:</strong></p>
 
 <ul>
-  <li>Mostly work on the frontend</li>
+  <li>Currently learning about Web 3.0 and the blockchain ecosystem</li>
   <li>Full Stack Developer at Furaha Systems</li>
   <li>Writes on a blog for fun</li>
   <li>Nerd of RPGs and story-based games</li>
