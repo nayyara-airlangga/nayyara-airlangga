@@ -8,4 +8,4 @@ You can contact me through these platforms:
 
 - [Email](mailto:nayyara.airlangga@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/nayyara-airlangga-raharjo)
-- [Twitter](https://twitter.com/TheBasedDev)
+- [Twitter](https://twitter.com/TheBasedguire)
